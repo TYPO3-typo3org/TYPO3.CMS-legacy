@@ -81,6 +81,7 @@ $t3libClasses = array(
 	't3lib_cache_frontend_stringfrontend' => PATH_t3lib . 'cache/frontend/class.t3lib_cache_frontend_stringfrontend.php',
 	't3lib_cache_frontend_variablefrontend' => PATH_t3lib . 'cache/frontend/class.t3lib_cache_frontend_variablefrontend.php',
 	't3lib_cache_manager' => PATH_t3lib . 'cache/class.t3lib_cache_manager.php',
+	't3lib_cachehash' => PATH_t3lib . 'class.t3lib_cacheHash.php',
 	't3lib_cli' => PATH_t3lib . 'class.t3lib_cli.php',
 	't3lib_clipboard' => PATH_t3lib . 'class.t3lib_clipboard.php',
 	't3lib_codec_javascriptencoder' => PATH_t3lib . 'codec/class.t3lib_codec_javascriptencoder.php',
